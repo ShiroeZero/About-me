@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 570">
+<defs><linearGradient id="paper" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff8f0"/><stop offset="1" stop-color="#f2e1d4"/></linearGradient><linearGradient id="fur" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#fffdfa"/><stop offset="1" stop-color="#f0dbcd"/></linearGradient></defs>
+<rect width="800" height="570" fill="url(#paper)" opacity="0"/>
+<!-- window and autumn leaves -->
+<path d="M580 2v320M758 0v338M578 160h222" fill="none" stroke="#98715f" stroke-width="8" opacity=".68"/>
+<path d="M580 0h220v330" fill="none" stroke="#785346" stroke-width="4" opacity=".4"/>
+<g stroke="#8e614a" stroke-width="3" fill="none"><path d="M750 0Q690 53 638 77M733 15Q760 72 793 101M642 73Q622 112 588 129"/></g>
+<g fill="#bc674d"><path d="M658 54q29-37 39-8-12 25-39 8M707 32q1 40-24 26-13-29 24-26M771 71q-42-20-31 12 23 21 31-12M607 114q-30-29-28 0 11 22 28 0"/></g>
+<g fill="#9a6b4a"><path d="M676 92q30-27 36 1-16 22-36-1M746 129q20-30 34-7-3 23-34 7M618 43q-29-19-27 8 18 19 27-8"/></g>
+<!-- book stack -->
+<path d="M155 463h500v58H155q-12-18 0-58z" fill="#b65040" stroke="#80513e" stroke-width="5"/>
+<path d="M161 471h481v38H161" fill="#edcdb1"/>
+<path d="M160 478h484M158 504h490" stroke="#a77964" stroke-width="2"/>
+<path d="M181 417h434v48H181q-15-16 0-48z" fill="#835747" stroke="#684638" stroke-width="5"/>
+<path d="M188 426h416v29H188" fill="#f5dbc2"/><path d="M204 433h383M200 446h389" stroke="#bc9475" stroke-width="2"/>
+<path d="M210 369h340v49H210q-16-20 0-49z" fill="#c9986a" stroke="#80583f" stroke-width="5"/>
+<path d="M218 379h321v28H218" fill="#f5ddbf"/><path d="M219 388h320M218 399h320" stroke="#b58a6f" stroke-width="2"/>
+<path d="M321 463l-8 77 24-16 23 17-5-82" fill="#b94638" stroke="#8d493c" stroke-width="3"/>
+<!-- tail behind body -->
+<path d="M590 344C730 335 766 460 719 495q-55 42-141-4 78 5 94-28-5-32-102-52z" fill="#f6e8dc" stroke="#7c5547" stroke-width="5" stroke-linejoin="round"/>
+<path d="M665 402q47 26 37 62-20 8-43 3" fill="#bc825d"/>
+<!-- cat body -->
+<path d="M369 295Q451 224 551 283q98 51 107 163-13 49-78 38-61-22-125-5-89 5-148-61z" fill="url(#fur)" stroke="#775043" stroke-width="5" stroke-linejoin="round"/>
+<path d="M485 278q60-26 102 36-47-6-54 38-39-7-48-74" fill="#c68b69"/>
+<path d="M527 284q20 16 34 38M544 281q29 28 37 50" fill="none" stroke="#aa765d" stroke-width="4"/>
+<!-- head, ears -->
+<path d="M298 312Q276 264 278 189q6-43 23-64 14 3 53 58 53-12 110 11 45-54 57-51 26 36 20 113 21 59-35 96-78 46-159 19-44-15-49-59z" fill="url(#fur)" stroke="#775043" stroke-width="5" stroke-linejoin="round"/>
+<path d="M292 194q5-39 13-47l37 43-40 42zM472 201l45-43q14 35 8 70l-50 3z" fill="#e7ad99"/>
+<path d="M308 170l23 28M499 174l-20 27" stroke="#bd816b" stroke-width="5" stroke-linecap="round"/>
+<path d="M300 260q44-29 71-10 27 34 5 75-35-9-61-3zM472 218q39-12 64 31-6 38-41 50-37-30-23-81" fill="#d49a75" opacity=".8"/>
+<!-- sleepy eyes -->
+<path d="M353 306q19-14 39 0M447 304q18-13 39 0" stroke="#704c3e" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M414 320l12 1-6 7z" fill="#bb7b70"/>
+<path d="M420 328q-10 16-21 8M420 328q10 16 21 8" fill="none" stroke="#875c50" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M378 326l-63-8M378 337l-66 9M462 326l63-8M461 337l66 9" stroke="#9e7567" stroke-width="2" opacity=".8"/>
+<!-- front paws -->
+<path d="M340 349Q301 350 254 384q-27 29-8 50 48 19 100-1 39-12 59-38l19-33" fill="#fff9f2" stroke="#775043" stroke-width="5"/>
+<path d="M428 366q-31 32-20 55 15 28 76 20 37-7 49-31 1-22-39-33" fill="#fff9f2" stroke="#775043" stroke-width="5"/>
+<path d="M281 420l12 12M308 422l8 12M457 428l9 11M484 423l11 12" stroke="#bc9486" stroke-width="2" stroke-linecap="round"/>
+<!-- decorative motion marks -->
+<path d="M247 258l-22-10M257 238l-7-28M272 218l-5-24" stroke="#905b4d" stroke-width="5" stroke-linecap="round"/>
+</svg>
